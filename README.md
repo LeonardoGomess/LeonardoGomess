@@ -1,7 +1,8 @@
 ## Oi eu sou o Leonardo Gomes, estudante de programação e tecnologia!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoGomess&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomess&layout=donut&theme=radical)](https://github.com/LeonardoGomess/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoGomess&show_icons=true&theme=radical)ㅤ
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomess&layout=donut&theme=radical)](https://github.com/LeonardoGomess/github-readme-stats)
 ##
 
 <div style="display: inline_block"><br>
