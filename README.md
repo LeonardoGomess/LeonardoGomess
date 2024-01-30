@@ -15,4 +15,4 @@
 
 ##
 
-![snake animation](https://github.com/<LeonardoGomess>/<LeonardoGomess>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/LeonardoGomess/LeonardoGomess/blob/output/github-contribution-grid-snake.gif)
