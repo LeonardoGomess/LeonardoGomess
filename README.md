@@ -15,14 +15,17 @@
   <img align="center" alt="Rafa-CSS" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-   <a href="https://www.linkedin.com/in/leonardo-arantes-gomes/" target="_blank" height="55" width="55"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br>
+<br>
+<br>
 
-##
+
+
+ <a href="https://www.linkedin.com/in/leonardo-arantes-gomes/" target="_blank" height="55" width="55"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Snake Game 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LeonardoGomess/LeonardoGomess/output/github-contribution-grid-snake.svg" />
   
