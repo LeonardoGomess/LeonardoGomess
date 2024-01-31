@@ -18,5 +18,4 @@
 
 ##
 
-
-![snake gif](https://github.com/LeonardoGomess/LeonardoGomess/blob/output/github-contribution-grid-snake.gif)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LeonardoGomess/LeonardoGomess/output/github-contribution-grid-snake.svg" />
