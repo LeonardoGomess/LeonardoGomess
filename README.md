@@ -20,7 +20,6 @@
 <br>
 <br>
 <br>
-
  <a href="https://www.linkedin.com/in/leonardo-arantes-gomes/" target="_blank" height="55" width="55"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div align="center">
