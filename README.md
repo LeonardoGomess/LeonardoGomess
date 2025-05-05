@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoGomess&show_icons=true&theme=radical)ㅤ
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomess&layout=donut&theme=radical)](https://github.com/LeonardoGomess/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomess&layout=donut&theme=radical&hide=jupyter%20notebook)](https://github.com/LeonardoGomess/github-readme-stats)
 
 
 <div style="display: inline_block;" ><br>
